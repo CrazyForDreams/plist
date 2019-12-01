@@ -33,9 +33,9 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.itao.market</string>
+                    <string>com.NgariHealth.NNNgarihealth</string>
                     <key>bundle-version</key>
-                    <string>0.0.1</string>
+                    <string>0.1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
