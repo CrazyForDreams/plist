@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string><![CDATA[http://ipa.chenlongyx.com/1575273281060.ipa?auth_key=1575273408-cd28890c299042b4ac1ff42991560f81-0-d325aa72c65dcf30fe69bb9f1ed8abf6]]></string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.NgariHealth.NNNgariHealth</string>
+<key>bundle-version</key>
+<string>0.1.0</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>下载</string>
+<key>title</key>
+<string>爱淘生活(安装完成后，请到设置->通用->设备管理->信任企业级应用)</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
